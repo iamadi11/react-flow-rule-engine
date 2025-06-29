@@ -14,8 +14,10 @@
     },
     "dependencies": {
         "@tanstack/react-query": "5.62.8",
+        "@xyflow/react": "12.8.1",
         "axios": "1.7.9",
         "clsx": "2.1.1",
+        "cz": "1.8.2",
         "next": "15.1.0",
         "react": "19.0.0",
         "react-dom": "19.0.0",
